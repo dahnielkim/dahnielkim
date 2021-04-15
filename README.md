@@ -6,4 +6,4 @@ I love building things! Feel free to check out any of my public repositories. Co
 
 ### Profile Stats
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahnielkim&hide=contribs,commit)](https://github.com/dahnielkim/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahnielkim&hide=contribs,commits)](https://github.com/dahnielkim/github-readme-stats)
