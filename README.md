@@ -1,6 +1,6 @@
 ## Hi there, I'm Daniel 👋
 
-I love building things! Feel free to check out any of my public repositories.
+Feel free to check out any of my public repositories.
 
 Connect with me on:
 
