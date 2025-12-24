@@ -1,6 +1,6 @@
 ## Hi there, I'm Daniel 👋
 
-Feel free to check out any of my public repositories or my personal page (www.danielkim.io).
+Feel free to check out any of my public repositories.
 
 Connect with me on:
 
